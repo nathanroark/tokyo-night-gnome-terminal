@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./images/theme-icon.png" width="100" alt="Tokyo Night Icon"/>
-    <h1>Tokyo Night</h1>
+    <h1>Tokyo Night: Gnome Terminal</h1>
     <a href="https://github.com/nathanroark/tokyo-night-gnome-terminal">
         <img src="https://img.shields.io/github/stars/nathanroark/tokyo-night-gnome-terminal.svg?style=for-the-badge&labelColor=24283b&color=73daca"/>
     </a>
