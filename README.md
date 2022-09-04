@@ -2,10 +2,10 @@
     <img src="./images/theme-icon.png" width="100" alt="Tokyo Night Icon"/>
     <h1>Tokyo Night</h1>
     <a href="https://github.com/nathanroark/tokyo-night-gnome-terminal">
-        <img src="https://img.shields.io/github/stars/tokyo-night/template.svg?style=for-the-badge&labelColor=24283b&color=73daca"/>
+        <img src="https://img.shields.io/github/stars/nathanroark/tokyo-night-gnome-terminal.svg?style=for-the-badge&labelColor=24283b&color=73daca"/>
     </a>
     <a href="https://github.com/nathanroark/tokyo-night-gnome-terminal/issues">
-        <img src="https://img.shields.io/github/issues/tokyo-night/template?style=for-the-badge&labelColor=24283b&color=ff9e64"/>
+        <img src="https://img.shields.io/github/issues/nathanroark/tokyo-night-gnome-terminal?style=for-the-badge&labelColor=24283b&color=ff9e64"/>
     </a>
     <a href="https://github.com/nathanroark/tokyo-night-gnome-terminal/main/LICENSE">
         <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=24283b&colorB=7aa2f7"/>
