@@ -1,4 +1,4 @@
-# [Tokyo Night]
+# Tokyo Night
 A clean Gnome Terminal theme that celebrates the light of Downtown [Tokyo at night.]
 
 
