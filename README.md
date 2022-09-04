@@ -7,7 +7,7 @@
     <a href="https://github.com/nathanroark/tokyo-night-gnome-terminal/issues">
         <img src="https://img.shields.io/github/issues/nathanroark/tokyo-night-gnome-terminal?style=for-the-badge&labelColor=24283b&color=ff9e64"/>
     </a>
-    <a href="https://github.com/nathanroark/tokyo-night-gnome-terminal/main/LICENSE">
+    <a href="https://github.com/nathanroark/tokyo-night-gnome-terminal/blob/main/LICENSE">
         <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=24283b&colorB=7aa2f7"/>
     </a>
 </div>
