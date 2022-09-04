@@ -18,5 +18,11 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/nathanroark/tokyo-night-
 
 ## Credits
 
-* Bash scripts base on: [denysdovhan](https://github.com/denysdovhan/one-gnome-terminal)
 * Theme colors base on: [enkia](https://github.com/enkia/tokyo-night-vscode-theme)
+* Bash scripts base on: [denysdovhan](https://github.com/denysdovhan/one-gnome-terminal)
+
+
+
+## License
+
+[MIT](LICENSE)
