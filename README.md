@@ -1,9 +1,23 @@
-# [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
-<br><br>A clean Gnome Terminal theme that celebrates the lights of Downtown [Tokyo at night.](https://www.google.com/search?q=tokyo+night&newwindow=1&sxsrf=ACYBGNRiOGCstG_Xohb8CgG5UGwBRpMIQg:1571032079139&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiayIfIhpvlAhUGmuAKHbfRDaIQ_AUIEigB&biw=1280&bih=666&dpr=2)
+<div align="center">
+    <img src="./images/theme-icon.png" width="100" alt="Tokyo Night Icon"/>
+    <h1>Tokyo Night</h1>
+    <a href="https://github.com/nathanroark/tokyo-night-gnome-terminal">
+        <img src="https://img.shields.io/github/stars/tokyo-night/template.svg?style=for-the-badge&labelColor=24283b&color=73daca"/>
+    </a>
+    <a href="https://github.com/nathanroark/tokyo-night-gnome-terminal/issues">
+        <img src="https://img.shields.io/github/issues/tokyo-night/template?style=for-the-badge&labelColor=24283b&color=ff9e64"/>
+    </a>
+    <a href="https://github.com/nathanroark/tokyo-night-gnome-terminal/main/LICENSE">
+        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=24283b&colorB=7aa2f7"/>
+    </a>
+</div>
+&nbsp;
+
+<br>A clean Gnome Terminal theme that celebrates the lights of Downtown [Tokyo at night.](https://www.google.com/search?q=tokyo+night&newwindow=1&sxsrf=ACYBGNRiOGCstG_Xohb8CgG5UGwBRpMIQg:1571032079139&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiayIfIhpvlAhUGmuAKHbfRDaIQ_AUIEigB&biw=1280&bih=666&dpr=2)
 
 ## Screenshots
 Tokyo Night
-![Screenshot - Tokyo Night](https://raw.githubusercontent.com/nathanroark/tokyo-night-gnome-terminal/main/extras/tokyo-night-color-preview.png)
+![Screenshot - Tokyo Night](https://raw.githubusercontent.com/nathanroark/tokyo-night-gnome-terminal/main/images/tokyo-night-color-preview.png)
 
 ## Instalation
 
